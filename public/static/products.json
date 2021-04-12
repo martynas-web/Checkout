@@ -1,0 +1,80 @@
+[
+  {
+    "productId": 1,
+    "id": 1,
+    "title": "delectus aut",
+    "fastDelivery": true,
+    "bestSeller": true,
+    "sellOutRisk": "High",
+    "productPopularity": "Best seller",
+    "quantity": "1",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "59.87",
+    "discount": "20"
+  },
+  {
+    "productId": 1,
+    "id": 2,
+    "title": "quis ut officia",
+    "fastDelivery": false,
+    "bestSeller": false,
+    "sellOutRisk": "High",
+    "productPopularity": "Moderate",
+    "quantity": "3",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "59.81",
+    "discount": "35"
+  },
+  {
+    "productId": 1,
+    "id": 3,
+    "title": "fugiat venia",
+    "fastDelivery": false,
+    "bestSeller": true,
+    "sellOutRisk": "Small",
+    "productPopularity": "Popular",
+    "quantity": "2",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "50.21",
+    "discount": "20"
+  },
+  {
+    "productId": 1,
+    "id": 4,
+    "title": "porro tempora",
+    "fastDelivery": true,
+    "bestSeller": false,
+    "sellOutRisk": "High",
+    "productPopularity": "Moderate",
+    "quantity": "1",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "59.39",
+    "discount": "25"
+  },
+  {
+    "productId": 1,
+    "id": 5,
+    "title": "adipisci quia",
+    "fastDelivery": false,
+    "bestSeller": false,
+    "sellOutRisk": "Small",
+    "productPopularity": "Best seller",
+    "quantity": "1",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "49.50",
+    "discount": "50"
+  },
+  {
+    "productId": 1,
+    "id": 6,
+    "title": "quibusdam volup",
+    "fastDelivery": true,
+    "bestSeller": false,
+    "sellOutRisk": "High",
+    "productPopularity": "Best seller",
+    "quantity": "3",
+    "imageUrl": "https://www.pngkit.com/png/full/779-7796559_denver-sw-160-denver-smartwatch.png",
+    "priceEach": "29.99",
+    "discount": "15"
+  }
+]
