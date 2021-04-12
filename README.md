@@ -1,4 +1,9 @@
-# learning
+# Checkout Page
+
+### Local json
+```
+Products.json file is located in /public/static/products.json
+```
 
 ## Project setup
 ```
